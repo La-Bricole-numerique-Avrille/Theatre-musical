@@ -1,2 +1,3 @@
-# Theatre-musical
+# Théâtre musical
+
 Théâtre musical

@@ -7,7 +7,7 @@ Chacune des 2 colonnes sont coupées en 5 pour l'impression:
  * 50mm à nouveau,
  * 50mm pour la pierre rectangulaire
 
-Le volume du théâtre est constitué d'une table basse modèle répandu, cubique et d'entrée de gamme d'IKEA. Elle sera réhaussée par ses pieds de 10 cm et le sol est constitué d'un second plateau.
+L'inspiration de la facade: un théatre Romain. Le volume: Une table 54x54 cm de la gamme Ikea réhaussée de 10 cm sur un autre plateau de table ce qui porte la hauteur du cube à 60 cm auquel s'ajoute la toiture.
 
 ![image](https://github.com/La-Bricole-numerique-Avrille/Theatre-musical/assets/938089/9f52a9e5-143b-4a28-bd05-06afc4117977)
 

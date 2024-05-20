@@ -18,6 +18,9 @@ L'inspiration de la facade: un théatre Romain. Le volume: Une table 54x54 cm de
 * Mécanisme de levage du rideau, Arduino, électronique . Pignons et engrenages dessinés sous Freecad, 
 * Eclairage, affichages d'informations par matrices à leds
 
+### Photos
+Les [Photos](/photos)
+
 ### Impression 3D
 
  * [Fichiers STL](https://github.com/La-Bricole-numerique-Avrille/Theatre-musical/blob/main/stl/README.md)

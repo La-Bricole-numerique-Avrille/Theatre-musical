@@ -9,6 +9,8 @@ Chacune des 2 colonnes sont coupées en 5 pour l'impression:
 
 Le volume du théâtre est constitué d'une table basse modèle répandu, cubique et d'entrée de gamme d'IKEA. Elle sera réhaussée par ses pieds de 10 cm et le sol est constitué d'un second plateau.
 
+![image](https://github.com/La-Bricole-numerique-Avrille/Theatre-musical/assets/938089/9f52a9e5-143b-4a28-bd05-06afc4117977)
+
 ### Impression 3D
 
  * [Fichiers STL](https://github.com/La-Bricole-numerique-Avrille/Theatre-musical/blob/main/stl/README.md)
